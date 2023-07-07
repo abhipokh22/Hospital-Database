@@ -1,1 +1,4 @@
 # Hospital-Database
+**Abstract**
+This paper presents the creation of a hospital database management system developed using MySQL and XAMPP, and displayed through GUI, both drag and drop, and Object Oriented Programming (OOP) in a Java development environment. It highlights the significance of OOP, SQL database concepts, and their application together as a way to display, delete, update or insert massive amounts of data. The paper showcases how to utilize MySQL and Java OOP to create both a dynamic and efficient application for hospital database management. The findings demonstrate the successful application of object-oriented programming and database design principles to address complex healthcare management challenges.
+Keywords: database, data management, foreign key, primary key, key violation, uml diagram
